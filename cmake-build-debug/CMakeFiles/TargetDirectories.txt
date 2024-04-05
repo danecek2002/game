@@ -1,0 +1,3 @@
+/Users/danecek/Desktop/Skola/ZOO/zools2023_xefanova/cmake-build-debug/CMakeFiles/zools2023_xefanova.dir
+/Users/danecek/Desktop/Skola/ZOO/zools2023_xefanova/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/danecek/Desktop/Skola/ZOO/zools2023_xefanova/cmake-build-debug/CMakeFiles/rebuild_cache.dir
